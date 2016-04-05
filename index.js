@@ -18,6 +18,7 @@ fs.readdir(process.cwd() + '/test_data', function (err, files) {
                 data.location = {};
                 data.location["lat"] = data.latLang[0];
                 data.location["long"] = data.latLang[1];
+                delete data.latLang;
                 return data
             };
             data = convertLatLang(data);
