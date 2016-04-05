@@ -1,5 +1,10 @@
 #VMap Bot: Index Data to ElasticSearch
 
+**Requirements**
+
+ - ElasticSearch
+ - Node.js
+
 **Setup**
 
     npm install
