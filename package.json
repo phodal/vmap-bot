@@ -1,0 +1,26 @@
+{
+  "name": "bot",
+  "version": "0.0.1",
+  "description": "VMap Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phodal/vmap-bot.git"
+  },
+  "keywords": [
+    "VMAP",
+    "bot"
+  ],
+  "author": "Phodal Huang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phodal/vmap-bot/issues"
+  },
+  "homepage": "https://github.com/phodal/vmap-bot#readme",
+  "dependencies": {
+    "elasticsearch": "^10.1.3"
+  }
+}
