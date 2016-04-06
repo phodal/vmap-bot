@@ -18,16 +18,19 @@
   "site_admin": false,
   "name": "Fengda Huang",
   "company": "ThoughtWorks",
-  "blog": "https://www.phodal.com",
+  "blog": "https://www.phodal.com/",
   "location": "Shenzhen China",
   "email": "h@phodal.com",
   "hireable": true,
   "bio": null,
-  "public_repos": 82,
+  "public_repos": 86,
   "public_gists": 7,
-  "followers": 2932,
+  "followers": 2986,
   "following": 15,
   "created_at": "2010-11-08T11:46:51Z",
-  "updated_at": "2016-04-02T12:09:56Z",
-  "latLang": [34.2173804, 108.8981328]
+  "updated_at": "2016-04-04T12:10:02Z",
+  "latLang": [
+    34.2173804,
+    108.8981328
+  ]
 }
