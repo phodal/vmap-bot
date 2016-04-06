@@ -9,13 +9,19 @@
 
     npm install
     
-**Run**
+**Get Data**
+    
+    node get_test_data.js
+    
+**Index Data**
     
     node index.js
 
 ElasticSearch Plugin for Debug
 
 ![elasticsearch-head](https://mobz.github.io/elasticsearch-head/_
+
+###Query
 
 ex.
 
