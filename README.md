@@ -13,6 +13,14 @@
     
     node index.js
 
+ElasticSearch Plugin for Debug
+
+![elasticsearch-head](https://mobz.github.io/elasticsearch-head/_
+
+ex.
+
+    /usr/local/Cellar/elasticsearch/2.0.0_1/bin/plugin install mobz/elasticsearch-head
+
 License
 ---
 
